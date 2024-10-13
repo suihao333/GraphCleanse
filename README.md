@@ -1,4 +1,4 @@
-#### GraphCleanse
+# GraphCleanse
 
 ## Requirements
 
@@ -8,4 +8,3 @@
 **Datasets Included:**
 
 `PROTEINS`; `AIDS`; `NCI1`; `COLLAB`
-# GraphCleanse
